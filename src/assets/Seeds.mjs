@@ -314,7 +314,7 @@ const MainTableRows = [
 const SecondaryTableRows = [
   {
     id_cotizacion: "9999999999999999999",
-    id_pedido: "4392634000121610668",
+    id_pedido: "9999999999999999800",
     aseguradora: "Chubbs",
     estado: "A la espera de informacion",
     fecha_bloqueo: "2023-10-23 00:00:00",
@@ -323,7 +323,7 @@ const SecondaryTableRows = [
   },
   {
     id_cotizacion: "9999999999999999999",
-    id_pedido: "4392634000121632614",
+    id_pedido: "9999999999999999801",
     aseguradora: "Federacion Patronal",
     estado: "Cerrado perdido",
     fecha_bloqueo: "2023-10-23 00:00:00",
@@ -332,7 +332,7 @@ const SecondaryTableRows = [
   },
   {
     id_cotizacion: "9999999999999999999",
-    id_pedido: "4392634000121633615",
+    id_pedido: "9999999999999999802",
     aseguradora: "Mercantil Andina",
     estado: "Cerrado perdido",
     fecha_bloqueo: "2023-10-23 00:00:00",
@@ -341,7 +341,7 @@ const SecondaryTableRows = [
   },
   {
     id_cotizacion: "9999999999999999996",
-    id_pedido: "4392634000119219009",
+    id_pedido: "9999999999999999803",
     aseguradora: "Provincia",
     estado: "Aviso enviado",
     fecha_bloqueo: "2023-10-05 00:00:00",
@@ -350,7 +350,7 @@ const SecondaryTableRows = [
   },
   {
     id_cotizacion: "9999999999999999996",
-    id_pedido: "4392634000119231026",
+    id_pedido: "9999999999999999804",
     aseguradora: "La Segunda",
     estado: "Aviso enviado",
     fecha_bloqueo: "2023-10-05 00:00:00",
@@ -359,7 +359,7 @@ const SecondaryTableRows = [
   },
   {
     id_cotizacion: "9999999999999999996",
-    id_pedido: "4392634000119232014",
+    id_pedido: "9999999999999999805",
     aseguradora: "Sura",
     estado: "Aviso enviado",
     fecha_bloqueo: "2023-10-05 00:00:00",
@@ -368,7 +368,7 @@ const SecondaryTableRows = [
   },				
   {
     id_cotizacion: "9999999999999999996",
-    id_pedido: "4392634000119238014",
+    id_pedido: "9999999999999999806",
     aseguradora: "Galeno",
     estado: "Aviso enviado",
     fecha_bloqueo: "2023-10-05 00:00:00",
@@ -377,7 +377,7 @@ const SecondaryTableRows = [
   },
   {
     id_cotizacion: "9999999999999999996",
-    id_pedido: "4392634000119241006",
+    id_pedido: "9999999999999999807",
     aseguradora: "Berkley",
     estado: "Aviso enviado",
     fecha_bloqueo: "2023-10-05 00:00:00",
@@ -386,7 +386,7 @@ const SecondaryTableRows = [
   },
   {
     id_cotizacion: "9999999999999999995",
-    id_pedido: "4392634000119231011",
+    id_pedido: "9999999999999999808",
     aseguradora: "SMG",
     estado: "Aviso enviado",
     fecha_bloqueo: "2023-10-05 00:00:00",
@@ -395,7 +395,7 @@ const SecondaryTableRows = [
   },
   {
     id_cotizacion: "9999999999999999995",
-    id_pedido: "4392634000119232004",
+    id_pedido: "9999999999999999809",
     aseguradora: "Zurich",
     estado: "Aviso enviado",
     fecha_bloqueo: "2023-10-05 00:00:00",
@@ -404,7 +404,7 @@ const SecondaryTableRows = [
   },
   {
     id_cotizacion: "9999999999999999995",
-    id_pedido: "4392634000119235001",
+    id_pedido: "9999999999999999810",
     aseguradora: "Sancor",
     estado: "Aviso enviado",
     fecha_bloqueo: "2023-10-05 00:00:00",
@@ -413,7 +413,7 @@ const SecondaryTableRows = [
   },				
   {
     id_cotizacion: "9999999999999999995",
-    id_pedido: "4392634000119244001",
+    id_pedido: "9999999999999999811",
     aseguradora: "Chubbs",
     estado: "Aviso enviado",
     fecha_bloqueo: "2023-10-05 00:00:00",
